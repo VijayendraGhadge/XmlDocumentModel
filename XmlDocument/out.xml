@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <!-- XML test case -->
+  <?xml-stylesheet type="text/css" href="style.css"?>
+  <LectureNote course="CSE681">
+    <title>
+       XML Example ? # 1
+    </title>
+    <reference>
+      <tag id="foo">
+      </tag>
+      <title>
+         Programming Microsoft . Net !
+      </title>
+      <author>
+         Jeff Prosise
+        <note Company="Wintellect">
+        </note>
+      </author>
+      <publisher>
+         Microsoft Press
+      </publisher>
+      <brk>
+      </brk>
+      <date>
+         2002
+      </date>
+      <page>
+         608
+      </page>
+    </reference>
+    <comment>
+       Description of PCDATA
+    </comment>
+  </LectureNote>
